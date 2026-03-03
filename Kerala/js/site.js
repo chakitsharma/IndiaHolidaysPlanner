@@ -29,7 +29,7 @@ function SendContactForm(FormType)
           website:"Kerala"
       };
        
-      emailjs.send('service_67t7hhj', 'template_thv6rqb', templateParams,'nmhVg3RXzbcSkzs_u')
+      emailjs.send('service_v2o5j0l', 'template_apvv4kv', templateParams,'3w5lxrQSjLVVLUx6_')
           .then(function(response) {
               swal("Good job!", "Your Response Has been submited!", "success");
               $("#SentFromForm").prop('disabled',false);
@@ -65,7 +65,7 @@ function SendContactForm(FormType)
           website:"Kerala"
       };
        
-      emailjs.send('service_67t7hhj', 'template_thv6rqb', templateParams,'nmhVg3RXzbcSkzs_u')
+      emailjs.send('service_v2o5j0l', 'template_apvv4kv', templateParams,'3w5lxrQSjLVVLUx6_')
           .then(function(response) {
               swal("Good job!", "Your Response Has been submited!", "success");
               $("#SentResponse").prop('disabled',false);
@@ -104,7 +104,7 @@ function SendContactForm(FormType)
           website:"Kerala"
       };
       //  console.log(templateParams);
-      emailjs.send('service_67t7hhj', 'template_thv6rqb', templateParams,'nmhVg3RXzbcSkzs_u')
+      emailjs.send('service_v2o5j0l', 'template_apvv4kv', templateParams,'3w5lxrQSjLVVLUx6_')
           .then(function(response) {
               swal("Good job!", "Your Response Has been submited!", "success");
               $("#SentResponse").prop('disabled',false);
@@ -204,7 +204,7 @@ function myFunction() {
     //     message:$("#messagePKG").val()
     // };
      
-    // emailjs.send('service_67t7hhj', 'template_thv6rqb', templateParams,'nmhVg3RXzbcSkzs_u')
+    // emailjs.send('service_v2o5j0l', 'template_apvv4kv', templateParams,'3w5lxrQSjLVVLUx6_')
     //     .then(function(response) {
     //         swal("Good job!", "Your Response Has been submited!", "success");
     //         $("#fullnamePKG").val('');
@@ -242,7 +242,7 @@ function myFunction() {
       website:"Kerala"
   };
    
-  emailjs.send('service_67t7hhj', 'template_thv6rqb', templateParams,'nmhVg3RXzbcSkzs_u')
+  emailjs.send('service_v2o5j0l', 'template_apvv4kv', templateParams,'3w5lxrQSjLVVLUx6_')
       .then(function(response) {
           swal("Good job!", "Your Response Has been submited!", "success");
           $("#fullnamePKG").val('');

@@ -13,7 +13,7 @@ function SendContactForm(FormType)
     };
      
     emailjs.send(
-      'service_67t7hhj', 'template_thv6rqb', templateParams,'nmhVg3RXzbcSkzs_u'
+      'service_v2o5j0l', 'template_apvv4kv', templateParams,'3w5lxrQSjLVVLUx6_'
       // "service_v2o5j0l",
       // "template_apvv4kv",
       // templateParams,
@@ -41,7 +41,7 @@ function SendContactForm(FormType)
     };
      
     emailjs.send(
-      'service_67t7hhj', 'template_thv6rqb', templateParams,'nmhVg3RXzbcSkzs_u'
+      'service_v2o5j0l', 'template_apvv4kv', templateParams,'3w5lxrQSjLVVLUx6_'
       // "service_v2o5j0l",
       // "template_apvv4kv",
       // templateParams,
@@ -79,7 +79,7 @@ function SendContactForm(FormType)
       };
        
       emailjs.send(
-        // 'service_67t7hhj', 'template_thv6rqb', templateParams,'nmhVg3RXzbcSkzs_u'
+        // 'service_v2o5j0l', 'template_apvv4kv', templateParams,'3w5lxrQSjLVVLUx6_'
         "service_v2o5j0l",
         "template_apvv4kv",
         templateParams,
@@ -186,7 +186,7 @@ function myFunction() {
     };
      
     emailjs.send(
-      // 'service_67t7hhj', 'template_thv6rqb', templateParams,'nmhVg3RXzbcSkzs_u'
+      // 'service_v2o5j0l', 'template_apvv4kv', templateParams,'3w5lxrQSjLVVLUx6_'
       "service_v2o5j0l",
       "template_apvv4kv",
       templateParams,
