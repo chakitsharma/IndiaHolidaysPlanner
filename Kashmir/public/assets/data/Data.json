@@ -1,0 +1,156 @@
+[
+  {
+    "packageTitle": "Kashmir Valley Tour",
+    "offer": "📢 Special Offers 15% Off 📢",
+    "duration": "4 Nights 5 Days (Free Customization)",
+    "image": "./image/Pkg1.webp",
+    "highlights": "FREE CANCELLATION* | EASY REFUND",
+    "packageInclusion": {
+      "readMore": [
+        "Pick up/drop from airport/railway station/bus stand",
+        "2 night stay in Srinagar on Dal Lake Houseboat",
+        "1 night stay in Gulmarg",
+        "1 night stay in Pahalgam",
+        "Highlights – Dal Lake, Gulmarg Gondola, Betaab Valley, Shikara Ride and 12 more points",
+        "Customize this package with our Kashmir travel expert for free"
+      ],
+      "readLess": [
+        "Pick up/drop from airport/railway station/bus stand",
+        "2 night stay in Srinagar on Dal Lake Houseboat",
+        "1 night stay in Gulmarg"
+      ]
+    },
+    "getQuickDetailsLink": "https://api.whatsapp.com/send/?phone=919998768210&text=Hii+I+want+Kashmir+Valley+Tour+details&type=phone_number&app_absent=0",
+    "contactLink": "tel:+919998768210",
+    "price": "13,999"
+  },
+  {
+    "packageTitle": "Kashmir Gulmarg Snow Tour",
+    "offer": "📢 Special Offers 15% Off 📢",
+    "duration": "4 Nights 5 Days (Free Customization)",
+    "image": "./image/Pkg2.webp",
+    "highlights": "FREE CANCELLATION* | EASY REFUND",
+    "packageInclusion": {
+      "readMore": [
+        "Pick up/drop from airport/railway station/bus stand",
+        "2 night stay in Srinagar",
+        "2 night stay in Gulmarg",
+        "Gondola ride to Phase 1 & Phase 2 included",
+        "Skiing activity included",
+        "Highlights – Gulmarg Gondola, Skiing, Dal Lake, Shikara Ride and 10 more points",
+        "Customize this package with our expert for free"
+      ],
+      "readLess": [
+        "Pick up/drop from airport/railway station/bus stand",
+        "2 night stay in Srinagar",
+        "2 night stay in Gulmarg"
+      ]
+    },
+    "getQuickDetailsLink": "https://api.whatsapp.com/send/?phone=919998768210&text=Hii+I+want+Kashmir+Gulmarg+Snow+Tour+details&type=phone_number&app_absent=0",
+    "contactLink": "tel:+919998768210",
+    "price": "14,999"
+  },
+  {
+    "packageTitle": "Kashmir Sonmarg Pahalgam Tour",
+    "offer": "📢 Special Offers 15% Off 📢",
+    "duration": "5 Nights 6 Days (Free Customization)",
+    "image": "./image/Pkg3.webp",
+    "highlights": "FREE CANCELLATION* | EASY REFUND",
+    "packageInclusion": {
+      "readMore": [
+        "Pick up/drop from airport/railway station/bus stand",
+        "2 night stay in Srinagar on Dal Lake Houseboat",
+        "1 night stay in Sonmarg",
+        "2 night stay in Pahalgam",
+        "Highlights – Dal Lake, Thajiwas Glacier, Betaab Valley, Baisaran and 16 more points",
+        "Customize this package with our expert for free"
+      ],
+      "readLess": [
+        "Pick up/drop from airport/railway station/bus stand",
+        "2 night stay in Srinagar on Dal Lake Houseboat",
+        "1 night stay in Sonmarg"
+      ]
+    },
+    "getQuickDetailsLink": "https://api.whatsapp.com/send/?phone=919998768210&text=Hii+I+want+Kashmir+Sonmarg+Pahalgam+Tour+details&type=phone_number&app_absent=0",
+    "contactLink": "tel:+919998768210",
+    "price": "15,499"
+  },
+  {
+    "packageTitle": "Kashmir Leh Ladakh Tour",
+    "offer": "📢 Special Offers 15% Off 📢",
+    "duration": "7 Nights 8 Days (Free Customization)",
+    "image": "./image/Pkg4.webp",
+    "highlights": "FREE CANCELLATION* | EASY REFUND",
+    "packageInclusion": {
+      "readMore": [
+        "Pick up/drop from airport/railway station/bus stand",
+        "2 night stay in Srinagar",
+        "1 night stay in Kargil",
+        "3 night stay in Leh Ladakh",
+        "1 night stay in Nubra Valley",
+        "Highlights – Dal Lake, Pangong Lake, Nubra Valley, Khardungla Pass and 25 more points",
+        "Customize this package with our expert for free"
+      ],
+      "readLess": [
+        "Pick up/drop from airport/railway station/bus stand",
+        "2 night stay in Srinagar",
+        "3 night stay in Leh Ladakh"
+      ]
+    },
+    "getQuickDetailsLink": "https://api.whatsapp.com/send/?phone=919998768210&text=Hii+I+want+Kashmir+Leh+Ladakh+Tour+details&type=phone_number&app_absent=0",
+    "contactLink": "tel:+919998768210",
+    "price": "21,999"
+  },
+  {
+    "packageTitle": "Kashmir Honeymoon Package",
+    "offer": "📢 Special Offers 15% Off 📢",
+    "duration": "5 Nights 6 Days (Free Customization)",
+    "image": "./image/Pkg5.jpg",
+    "highlights": "FREE CANCELLATION* | EASY REFUND",
+    "packageInclusion": {
+      "readMore": [
+        "Pick up/drop from airport/railway station/bus stand",
+        "3 night stay in Srinagar on Dal Lake Houseboat (Couple Special)",
+        "2 night stay in Pahalgam",
+        "Shikara ride on Dal Lake",
+        "Candlelit dinner arrangements",
+        "Highlights – Dal Lake, Shikara Ride, Betaab Valley, Tulip Garden and 15 more points",
+        "Customize this package with our expert for free"
+      ],
+      "readLess": [
+        "Pick up/drop from airport/railway station/bus stand",
+        "3 night stay in Srinagar on Dal Lake Houseboat",
+        "2 night stay in Pahalgam"
+      ]
+    },
+    "getQuickDetailsLink": "https://api.whatsapp.com/send/?phone=919998768210&text=Hii+I+want+Kashmir+Honeymoon+Package+details&type=phone_number&app_absent=0",
+    "contactLink": "tel:+919998768210",
+    "price": "16,999"
+  },
+  {
+    "packageTitle": "Complete Kashmir Tour",
+    "offer": "📢 Special Offers 15% Off 📢",
+    "duration": "6 Nights 7 Days (Free Customization)",
+    "image": "./image/Pkg6.jpg",
+    "highlights": "FREE CANCELLATION* | EASY REFUND",
+    "packageInclusion": {
+      "readMore": [
+        "Pick up/drop from airport/railway station/bus stand",
+        "3 night stay in Srinagar on Dal Lake Houseboat",
+        "1 night stay in Gulmarg",
+        "1 night stay in Pahalgam",
+        "1 night stay in Sonmarg",
+        "Highlights – Dal Lake, Gulmarg Gondola, Betaab Valley, Thajiwas Glacier, Shikara Ride and 28 more points",
+        "Customize this package with our expert for free"
+      ],
+      "readLess": [
+        "Pick up/drop from airport/railway station/bus stand",
+        "3 night stay in Srinagar on Dal Lake Houseboat",
+        "1 night stay in Gulmarg"
+      ]
+    },
+    "getQuickDetailsLink": "https://api.whatsapp.com/send/?phone=919998768210&text=Hii+I+want+Complete+Kashmir+Tour+details&type=phone_number&app_absent=0",
+    "contactLink": "tel:+919998768210",
+    "price": "18,999"
+  }
+]
